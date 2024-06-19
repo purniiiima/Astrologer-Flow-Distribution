@@ -1,0 +1,20 @@
+{
+  "name": "flow-distribution",
+  "version": "1.0.0",
+  "description": "A Node.js project for flow distribution algorithm",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha tests"
+  },
+  "keywords": ["flow", "distribution", "algorithm", "nodejs"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
